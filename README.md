@@ -1,7 +1,7 @@
 
 <h1 align="Left">Hi 👋, I'm Nguyen Quoc Bao</h1>
 
- - 🔭 I am a student in robotics engineering at the University of Engineering and Technology - VNU.
+ - 🔭 I am a pupils in robotics engineering at the University of Engineering and Technology - VNU.
  - 🤔 I love reading and learning about robots.
  - 📫 How to reach me: qbao1607@gmail.com.
 
