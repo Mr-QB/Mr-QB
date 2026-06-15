@@ -1,7 +1,7 @@
 
 <h1 align="Left">Hi 👋, I'm Nguyen Quoc Bao</h1>
 
- - 🔭 I am a pupils in robotics engineering at the University of Engineering and Technology - VNU.
+ - 🔭 I graduated in Robotics Engineering from the University of Engineering and Technology, VNU, and I am currently pursuing a Master's program here.
  - 🤔 I love reading and learning about robots.
  - 📫 How to reach me: qbao1607@gmail.com.
 
